@@ -1,0 +1,1 @@
+Special moves: https://www.kaggle.com/datasets/thiagoamancio/full-pokemons-and-moves-datasets?resource=download&select=metadata_pokemon.csv
