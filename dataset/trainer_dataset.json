@@ -1,0 +1,359 @@
+[
+    {
+        "id": 1,
+        "name": "Misty",
+        "region": "Unova",
+        "badges": 6,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 2,
+        "name": "Brock",
+        "region": "Unova",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 3,
+        "name": "Erika",
+        "region": "Unova",
+        "badges": 7,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 4,
+        "name": "Lt. Surge",
+        "region": "Sinnoh",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 5,
+        "name": "Sabrina",
+        "region": "Kanto",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 6,
+        "name": "Koga",
+        "region": "Galar",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 7,
+        "name": "Blaine",
+        "region": "Johto",
+        "badges": 6,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 8,
+        "name": "Giovanni",
+        "region": "Hoenn",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 9,
+        "name": "Falkner",
+        "region": "Hoenn",
+        "badges": 6,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 10,
+        "name": "Bugsy",
+        "region": "Galar",
+        "badges": 6,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 11,
+        "name": "Whitney",
+        "region": "Sinnoh",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 12,
+        "name": "Morty",
+        "region": "Hoenn",
+        "badges": 7,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 13,
+        "name": "Chuck",
+        "region": "Hoenn",
+        "badges": 7,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 14,
+        "name": "Jasmine",
+        "region": "Kalos",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 15,
+        "name": "Pryce",
+        "region": "Hoenn",
+        "badges": 7,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 16,
+        "name": "Clair",
+        "region": "Galar",
+        "badges": 7,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 17,
+        "name": "Roxanne",
+        "region": "Sinnoh",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 18,
+        "name": "Brawly",
+        "region": "Kalos",
+        "badges": 6,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 19,
+        "name": "Wattson",
+        "region": "Unova",
+        "badges": 7,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 20,
+        "name": "Flannery",
+        "region": "Johto",
+        "badges": 7,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 21,
+        "name": "Norman",
+        "region": "Hoenn",
+        "badges": 6,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 22,
+        "name": "Winona",
+        "region": "Unova",
+        "badges": 6,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 23,
+        "name": "Tate",
+        "region": "Kalos",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 24,
+        "name": "Liza",
+        "region": "Kanto",
+        "badges": 7,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 25,
+        "name": "Candice",
+        "region": "Sinnoh",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 26,
+        "name": "Volkner",
+        "region": "Johto",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 27,
+        "name": "Crasher Wake",
+        "region": "Unova",
+        "badges": 6,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 28,
+        "name": "Byron",
+        "region": "Sinnoh",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 29,
+        "name": "Fantina",
+        "region": "Hoenn",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 30,
+        "name": "Gardenia",
+        "region": "Galar",
+        "badges": 8,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 31,
+        "name": "Lenora",
+        "region": "Galar",
+        "badges": 7,
+        "role": "Gym Leader"
+    },
+    {
+        "id": 32,
+        "name": "Ash",
+        "region": "Sinnoh",
+        "badges": 10,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 33,
+        "name": "Gary",
+        "region": "Alola",
+        "badges": 6,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 34,
+        "name": "Tracey",
+        "region": "Kalos",
+        "badges": 7,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 35,
+        "name": "May",
+        "region": "Alola",
+        "badges": 2,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 36,
+        "name": "Dawn",
+        "region": "Sinnoh",
+        "badges": 4,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 37,
+        "name": "Serena",
+        "region": "Johto",
+        "badges": 10,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 38,
+        "name": "Cilan",
+        "region": "Sinnoh",
+        "badges": 6,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 39,
+        "name": "Iris",
+        "region": "Kalos",
+        "badges": 1,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 40,
+        "name": "Clemont",
+        "region": "Galar",
+        "badges": 1,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 41,
+        "name": "Bonnie",
+        "region": "Hoenn",
+        "badges": 9,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 42,
+        "name": "Kiawe",
+        "region": "Hoenn",
+        "badges": 10,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 43,
+        "name": "Mallow",
+        "region": "Sinnoh",
+        "badges": 10,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 44,
+        "name": "Lana",
+        "region": "Alola",
+        "badges": 10,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 45,
+        "name": "Sophocles",
+        "region": "Kanto",
+        "badges": 7,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 46,
+        "name": "Goh",
+        "region": "Sinnoh",
+        "badges": 6,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 47,
+        "name": "Chloe",
+        "region": "Johto",
+        "badges": 1,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 48,
+        "name": "Hop",
+        "region": "Hoenn",
+        "badges": 9,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 49,
+        "name": "Bede",
+        "region": "Kalos",
+        "badges": 7,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 50,
+        "name": "Marnie",
+        "region": "Johto",
+        "badges": 7,
+        "role": "Regular Trainer"
+    },
+    {
+        "id": 51,
+        "name": "Gloria",
+        "region": "Unova",
+        "badges": 7,
+        "role": "Regular Trainer"
+    }
+]

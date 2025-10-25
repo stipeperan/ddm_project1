@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Inferno Gym",
+    "location": "Cinder Town",
+    "specializes_in": "Fire"
+  },
+  {
+    "id": 2,
+    "name": "Blaze Gym",
+    "location": "Ember City",
+    "specializes_in": "Fire"
+  },
+  {
+    "id": 3,
+    "name": "Pyro Gym",
+    "location": "Ashfall",
+    "specializes_in": "Fire"
+  },
+  {
+    "id": 4,
+    "name": "Torrent Gym",
+    "location": "Aqua City",
+    "specializes_in": "Water"
+  },
+  {
+    "id": 5,
+    "name": "Cascade Gym",
+    "location": "Bluewave Bay",
+    "specializes_in": "Water"
+  },
+  {
+    "id": 6,
+    "name": "Marine Gym",
+    "location": "Coral Coast",
+    "specializes_in": "Water"
+  },
+  {
+    "id": 7,
+    "name": "Verdant Gym",
+    "location": "Leafshade",
+    "specializes_in": "Grass"
+  },
+  {
+    "id": 8,
+    "name": "Bloom Gym",
+    "location": "Greenvale",
+    "specializes_in": "Grass"
+  },
+  {
+    "id": 9,
+    "name": "Flora Gym",
+    "location": "Petal Plains",
+    "specializes_in": "Grass"
+  },
+  {
+    "id": 10,
+    "name": "Shockwave Gym",
+    "location": "Volt Valley",
+    "specializes_in": "Electric"
+  },
+  {
+    "id": 11,
+    "name": "Thunder Gym",
+    "location": "Spark City",
+    "specializes_in": "Electric"
+  },
+  {
+    "id": 12,
+    "name": "Lightning Gym",
+    "location": "Storm Heights",
+    "specializes_in": "Electric"
+  },
+  {
+    "id": 13,
+    "name": "Stonewall Gym",
+    "location": "Granite Gorge",
+    "specializes_in": "Rock"
+  },
+  {
+    "id": 14,
+    "name": "Boulder Gym",
+    "location": "Rockridge",
+    "specializes_in": "Rock"
+  },
+  {
+    "id": 15,
+    "name": "Crag Gym",
+    "location": "Stone Summit",
+    "specializes_in": "Rock"
+  },
+  {
+    "id": 16,
+    "name": "Frost Gym",
+    "location": "Snowpeak",
+    "specializes_in": "Ice"
+  },
+  {
+    "id": 17,
+    "name": "Glacier Gym",
+    "location": "Frozen Fjord",
+    "specializes_in": "Ice"
+  },
+  {
+    "id": 18,
+    "name": "Blizzard Gym",
+    "location": "Crystal Tundra",
+    "specializes_in": "Ice"
+  },
+  {
+    "id": 19,
+    "name": "Mystic Gym",
+    "location": "Dream Harbor",
+    "specializes_in": "Psychic"
+  },
+  {
+    "id": 20,
+    "name": "Mind Gym",
+    "location": "Thoughtspire",
+    "specializes_in": "Psychic"
+  },
+  {
+    "id": 21,
+    "name": "Vision Gym",
+    "location": "Aura City",
+    "specializes_in": "Psychic"
+  },
+  {
+    "id": 22,
+    "name": "Shadow Gym",
+    "location": "Dark Hollow",
+    "specializes_in": "Dark"
+  },
+  {
+    "id": 23,
+    "name": "Nightfall Gym",
+    "location": "Ebon Vale",
+    "specializes_in": "Dark"
+  },
+  {
+    "id": 24,
+    "name": "Obsidian Gym",
+    "location": "Blackrock",
+    "specializes_in": "Dark"
+  },
+  {
+    "id": 25,
+    "name": "Steelclad Gym",
+    "location": "Ironforge",
+    "specializes_in": "Steel"
+  },
+  {
+    "id": 26,
+    "name": "Metal Gym",
+    "location": "Gear City",
+    "specializes_in": "Steel"
+  },
+  {
+    "id": 27,
+    "name": "Titan Gym",
+    "location": "Steelspire",
+    "specializes_in": "Steel"
+  },
+  {
+    "id": 28,
+    "name": "Dragonspire Gym",
+    "location": "Drake Hollow",
+    "specializes_in": "Dragon"
+  },
+  {
+    "id": 29,
+    "name": "Wyvern Gym",
+    "location": "Scale Summit",
+    "specializes_in": "Dragon"
+  },
+  {
+    "id": 30,
+    "name": "Serpent Gym",
+    "location": "Fang Valley",
+    "specializes_in": "Dragon"
+  }
+]

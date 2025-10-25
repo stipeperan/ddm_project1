@@ -1,0 +1,722 @@
+[
+    {
+        "trainer_id": 1,
+        "trainer_name": "Trainer_1",
+        "region": "Johto",
+        "role": "Gym Leader",
+        "gym_id": 1,
+        "gym_name": "Gym_1",
+        "pokemon_ids": [
+            174,
+            778,
+            39,
+            345
+        ]
+    },
+    {
+        "trainer_id": 2,
+        "trainer_name": "Trainer_2",
+        "region": "Unova",
+        "role": "Gym Leader",
+        "gym_id": 2,
+        "gym_name": "Gym_2",
+        "pokemon_ids": [
+            1002,
+            717,
+            179,
+            334
+        ]
+    },
+    {
+        "trainer_id": 3,
+        "trainer_name": "Trainer_3",
+        "region": "Kalos",
+        "role": "Gym Leader",
+        "gym_id": 3,
+        "gym_name": "Gym_3",
+        "pokemon_ids": [
+            28,
+            681,
+            746,
+            536
+        ]
+    },
+    {
+        "trainer_id": 4,
+        "trainer_name": "Trainer_4",
+        "region": "Alola",
+        "role": "Gym Leader",
+        "gym_id": 4,
+        "gym_name": "Gym_4",
+        "pokemon_ids": [
+            65,
+            222,
+            616,
+            231
+        ]
+    },
+    {
+        "trainer_id": 5,
+        "trainer_name": "Trainer_5",
+        "region": "Alola",
+        "role": "Gym Leader",
+        "gym_id": 5,
+        "gym_name": "Gym_5",
+        "pokemon_ids": [
+            431,
+            481,
+            64,
+            548
+        ]
+    },
+    {
+        "trainer_id": 6,
+        "trainer_name": "Trainer_6",
+        "region": "Kalos",
+        "role": "Gym Leader",
+        "gym_id": 6,
+        "gym_name": "Gym_6",
+        "pokemon_ids": [
+            897,
+            335,
+            742,
+            762
+        ]
+    },
+    {
+        "trainer_id": 7,
+        "trainer_name": "Trainer_7",
+        "region": "Kanto",
+        "role": "Gym Leader",
+        "gym_id": 7,
+        "gym_name": "Gym_7",
+        "pokemon_ids": [
+            551,
+            824,
+            563,
+            265
+        ]
+    },
+    {
+        "trainer_id": 8,
+        "trainer_name": "Trainer_8",
+        "region": "Sinnoh",
+        "role": "Gym Leader",
+        "gym_id": 8,
+        "gym_name": "Gym_8",
+        "pokemon_ids": [
+            942,
+            520,
+            964,
+            961
+        ]
+    },
+    {
+        "trainer_id": 9,
+        "trainer_name": "Trainer_9",
+        "region": "Kanto",
+        "role": "Gym Leader",
+        "gym_id": 9,
+        "gym_name": "Gym_9",
+        "pokemon_ids": [
+            590,
+            478,
+            691,
+            182
+        ]
+    },
+    {
+        "trainer_id": 10,
+        "trainer_name": "Trainer_10",
+        "region": "Johto",
+        "role": "Gym Leader",
+        "gym_id": 10,
+        "gym_name": "Gym_10",
+        "pokemon_ids": [
+            351,
+            857,
+            159,
+            841
+        ]
+    },
+    {
+        "trainer_id": 11,
+        "trainer_name": "Trainer_11",
+        "region": "Johto",
+        "role": "Gym Leader",
+        "gym_id": 11,
+        "gym_name": "Gym_11",
+        "pokemon_ids": [
+            124,
+            793,
+            21,
+            961
+        ]
+    },
+    {
+        "trainer_id": 12,
+        "trainer_name": "Trainer_12",
+        "region": "Kanto",
+        "role": "Gym Leader",
+        "gym_id": 12,
+        "gym_name": "Gym_12",
+        "pokemon_ids": [
+            682,
+            13,
+            687,
+            937
+        ]
+    },
+    {
+        "trainer_id": 13,
+        "trainer_name": "Trainer_13",
+        "region": "Johto",
+        "role": "Gym Leader",
+        "gym_id": 13,
+        "gym_name": "Gym_13",
+        "pokemon_ids": [
+            172,
+            529,
+            842,
+            148
+        ]
+    },
+    {
+        "trainer_id": 14,
+        "trainer_name": "Trainer_14",
+        "region": "Sinnoh",
+        "role": "Gym Leader",
+        "gym_id": 14,
+        "gym_name": "Gym_14",
+        "pokemon_ids": [
+            84,
+            220,
+            133,
+            564
+        ]
+    },
+    {
+        "trainer_id": 15,
+        "trainer_name": "Trainer_15",
+        "region": "Sinnoh",
+        "role": "Gym Leader",
+        "gym_id": 15,
+        "gym_name": "Gym_15",
+        "pokemon_ids": [
+            956,
+            560,
+            536,
+            122
+        ]
+    },
+    {
+        "trainer_id": 16,
+        "trainer_name": "Trainer_16",
+        "region": "Galar",
+        "role": "Gym Leader",
+        "gym_id": 16,
+        "gym_name": "Gym_16",
+        "pokemon_ids": [
+            391,
+            638,
+            909,
+            569
+        ]
+    },
+    {
+        "trainer_id": 17,
+        "trainer_name": "Trainer_17",
+        "region": "Sinnoh",
+        "role": "Gym Leader",
+        "gym_id": 17,
+        "gym_name": "Gym_17",
+        "pokemon_ids": [
+            632,
+            277,
+            575,
+            706
+        ]
+    },
+    {
+        "trainer_id": 18,
+        "trainer_name": "Trainer_18",
+        "region": "Kanto",
+        "role": "Gym Leader",
+        "gym_id": 18,
+        "gym_name": "Gym_18",
+        "pokemon_ids": [
+            627,
+            813,
+            404,
+            427
+        ]
+    },
+    {
+        "trainer_id": 19,
+        "trainer_name": "Trainer_19",
+        "region": "Galar",
+        "role": "Gym Leader",
+        "gym_id": 19,
+        "gym_name": "Gym_19",
+        "pokemon_ids": [
+            938,
+            261,
+            534,
+            466
+        ]
+    },
+    {
+        "trainer_id": 20,
+        "trainer_name": "Trainer_20",
+        "region": "Galar",
+        "role": "Gym Leader",
+        "gym_id": 20,
+        "gym_name": "Gym_20",
+        "pokemon_ids": [
+            875,
+            668,
+            240,
+            289
+        ]
+    },
+    {
+        "trainer_id": 21,
+        "trainer_name": "Trainer_21",
+        "region": "Hoenn",
+        "role": "Gym Leader",
+        "gym_id": 21,
+        "gym_name": "Gym_21",
+        "pokemon_ids": [
+            727,
+            875,
+            778,
+            721
+        ]
+    },
+    {
+        "trainer_id": 22,
+        "trainer_name": "Trainer_22",
+        "region": "Alola",
+        "role": "Gym Leader",
+        "gym_id": 22,
+        "gym_name": "Gym_22",
+        "pokemon_ids": [
+            680,
+            457,
+            325,
+            114
+        ]
+    },
+    {
+        "trainer_id": 23,
+        "trainer_name": "Trainer_23",
+        "region": "Johto",
+        "role": "Gym Leader",
+        "gym_id": 23,
+        "gym_name": "Gym_23",
+        "pokemon_ids": [
+            195,
+            308,
+            134,
+            392
+        ]
+    },
+    {
+        "trainer_id": 24,
+        "trainer_name": "Trainer_24",
+        "region": "Unova",
+        "role": "Gym Leader",
+        "gym_id": 24,
+        "gym_name": "Gym_24",
+        "pokemon_ids": [
+            145,
+            387,
+            520,
+            410
+        ]
+    },
+    {
+        "trainer_id": 25,
+        "trainer_name": "Trainer_25",
+        "region": "Johto",
+        "role": "Gym Leader",
+        "gym_id": 25,
+        "gym_name": "Gym_25",
+        "pokemon_ids": [
+            332,
+            418,
+            514,
+            699
+        ]
+    },
+    {
+        "trainer_id": 26,
+        "trainer_name": "Trainer_26",
+        "region": "Sinnoh",
+        "role": "Gym Leader",
+        "gym_id": 26,
+        "gym_name": "Gym_26",
+        "pokemon_ids": [
+            481,
+            65,
+            751,
+            977
+        ]
+    },
+    {
+        "trainer_id": 27,
+        "trainer_name": "Trainer_27",
+        "region": "Johto",
+        "role": "Gym Leader",
+        "gym_id": 27,
+        "gym_name": "Gym_27",
+        "pokemon_ids": [
+            430,
+            294,
+            474,
+            928
+        ]
+    },
+    {
+        "trainer_id": 28,
+        "trainer_name": "Trainer_28",
+        "region": "Kanto",
+        "role": "Gym Leader",
+        "gym_id": 28,
+        "gym_name": "Gym_28",
+        "pokemon_ids": [
+            944,
+            342,
+            824,
+            962
+        ]
+    },
+    {
+        "trainer_id": 29,
+        "trainer_name": "Trainer_29",
+        "region": "Hoenn",
+        "role": "Gym Leader",
+        "gym_id": 29,
+        "gym_name": "Gym_29",
+        "pokemon_ids": [
+            867,
+            707,
+            462,
+            807
+        ]
+    },
+    {
+        "trainer_id": 30,
+        "trainer_name": "Trainer_30",
+        "region": "Unova",
+        "role": "Gym Leader",
+        "gym_id": 30,
+        "gym_name": "Gym_30",
+        "pokemon_ids": [
+            275,
+            131,
+            908,
+            919
+        ]
+    },
+    {
+        "trainer_id": 31,
+        "trainer_name": "Trainer_31",
+        "region": "Sinnoh",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            974,
+            750,
+            103,
+            899,
+            676
+        ]
+    },
+    {
+        "trainer_id": 32,
+        "trainer_name": "Trainer_32",
+        "region": "Johto",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            811,
+            738,
+            366,
+            31,
+            499
+        ]
+    },
+    {
+        "trainer_id": 33,
+        "trainer_name": "Trainer_33",
+        "region": "Johto",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            968,
+            21,
+            650,
+            209,
+            312
+        ]
+    },
+    {
+        "trainer_id": 34,
+        "trainer_name": "Trainer_34",
+        "region": "Johto",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            1018,
+            830,
+            979,
+            529,
+            766
+        ]
+    },
+    {
+        "trainer_id": 35,
+        "trainer_name": "Trainer_35",
+        "region": "Kalos",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            818,
+            924,
+            834,
+            313,
+            572
+        ]
+    },
+    {
+        "trainer_id": 36,
+        "trainer_name": "Trainer_36",
+        "region": "Johto",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            546,
+            762,
+            400,
+            727,
+            777
+        ]
+    },
+    {
+        "trainer_id": 37,
+        "trainer_name": "Trainer_37",
+        "region": "Johto",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            213,
+            27,
+            751,
+            777,
+            403
+        ]
+    },
+    {
+        "trainer_id": 38,
+        "trainer_name": "Trainer_38",
+        "region": "Unova",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            96,
+            609,
+            6,
+            450,
+            786
+        ]
+    },
+    {
+        "trainer_id": 39,
+        "trainer_name": "Trainer_39",
+        "region": "Kanto",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            756,
+            724,
+            544,
+            749,
+            819
+        ]
+    },
+    {
+        "trainer_id": 40,
+        "trainer_name": "Trainer_40",
+        "region": "Unova",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            876,
+            825,
+            1013,
+            658,
+            105
+        ]
+    },
+    {
+        "trainer_id": 41,
+        "trainer_name": "Trainer_41",
+        "region": "Kanto",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            614,
+            988,
+            893,
+            267,
+            873
+        ]
+    },
+    {
+        "trainer_id": 42,
+        "trainer_name": "Trainer_42",
+        "region": "Alola",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            650,
+            823,
+            648,
+            163,
+            697
+        ]
+    },
+    {
+        "trainer_id": 43,
+        "trainer_name": "Trainer_43",
+        "region": "Johto",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            771,
+            147,
+            838,
+            728,
+            94
+        ]
+    },
+    {
+        "trainer_id": 44,
+        "trainer_name": "Trainer_44",
+        "region": "Johto",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            501,
+            210,
+            237,
+            342,
+            579
+        ]
+    },
+    {
+        "trainer_id": 45,
+        "trainer_name": "Trainer_45",
+        "region": "Hoenn",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            527,
+            235,
+            59,
+            198,
+            816
+        ]
+    },
+    {
+        "trainer_id": 46,
+        "trainer_name": "Trainer_46",
+        "region": "Johto",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            12,
+            558,
+            989,
+            630,
+            984
+        ]
+    },
+    {
+        "trainer_id": 47,
+        "trainer_name": "Trainer_47",
+        "region": "Alola",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            277,
+            276,
+            209,
+            731,
+            1025
+        ]
+    },
+    {
+        "trainer_id": 48,
+        "trainer_name": "Trainer_48",
+        "region": "Kanto",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            579,
+            185,
+            830,
+            379,
+            517
+        ]
+    },
+    {
+        "trainer_id": 49,
+        "trainer_name": "Trainer_49",
+        "region": "Hoenn",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            405,
+            5,
+            454,
+            680,
+            864
+        ]
+    },
+    {
+        "trainer_id": 50,
+        "trainer_name": "Trainer_50",
+        "region": "Hoenn",
+        "role": "Regular Trainer",
+        "gym_id": null,
+        "gym_name": null,
+        "pokemon_ids": [
+            937,
+            176,
+            64,
+            572,
+            219
+        ]
+    }
+]
